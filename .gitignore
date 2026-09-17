@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+ai_env/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Large/raw log data
+*.jsonl
+*.log
+
+# Generated datasets
+Data_Cyper/processed/*.parquet
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+
+# Compressed / archive files
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.tar.bz2
+*.tbz2
+*.tar.xz
+*.txz
+*.gz
+*.bz2
+*.xz
+*.7z
+*.rar
