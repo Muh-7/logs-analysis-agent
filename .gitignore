@@ -38,3 +38,6 @@ Data_Cyper/processed/*.parquet
 *.xz
 *.7z
 *.rar
+
+# Sensitive company data
+Data_Cyper/
