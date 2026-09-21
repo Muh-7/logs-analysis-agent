@@ -6,6 +6,7 @@ The project is designed for environments where log data may contain sensitive in
 
 ---
 
+
 ## 1. Project Goal
 
 The goal of this project is to build an AI-assisted security log investigation system capable of working with very large log datasets.
@@ -927,3 +928,4 @@ The intended final system is:
 The project should evolve toward an **AI-assisted investigation system**, not simply an LLM chatbot connected to log files.
 
 The data/query layer has been prepared specifically to make that possible.
+Muhammad_Alsehoum
